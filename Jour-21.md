@@ -4,12 +4,12 @@
 
 ### Javascript
 
-* [ ] Découvrir les Objets en JS (https://javascript.info/object)
-  * [ ] Comprendre le principe de clé/valeur
-  * [ ] Comprendre la différence entre un objet et une variable
-  * [ ] Savoir itérer dans un objet
-  * [ ] Savoir copier un objet (cloner)
-* [ ] Comprendre les références d’objet et leur copie (https://fr.javascript.info/object-copy) 
+* [x] Découvrir les Objets en JS (https://javascript.info/object)
+  * [x] Comprendre le principe de clé/valeur
+  * [x] Comprendre la différence entre un objet et une variable
+  * [x] Savoir itérer dans un objet
+  * [x] Savoir copier un objet (cloner)
+* [x] Comprendre les références d’objet et leur copie (https://fr.javascript.info/object-copy) 
 
 ### SQL
 
@@ -17,7 +17,7 @@
 
 #### Commandes SQL Essentielles
 
-- [ ] **`CREATE DATABASE`** : Créer une nouvelle base de données.
+- [x] **`CREATE DATABASE`** : Créer une nouvelle base de données.
 - [ ] **`CREATE TABLE`** : Créer une nouvelle table.
 - [ ] **`INSERT INTO`** : Insérer des données dans une table.
 - [ ] **`SELECT`** : Sélectionner des données d'une table.
@@ -32,8 +32,8 @@
 
 ### PostgreSQL :
 
-* [ ] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
-* [ ] Installation de `PostgreSQL`
+* [x] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
+* [x] Installation de `PostgreSQL`
 * [ ] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
 * [ ] Création/suppression de comptes utilisateurs
 * [ ] Création de bases de données (https://youtu.be/DvDOU-v822w)
