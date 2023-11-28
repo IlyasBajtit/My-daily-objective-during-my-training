@@ -19,7 +19,7 @@
 - [x] Comprendre le fonctionnement des variables en JavaScript (https://fr.javascript.info/variables)
 - [x] Découvrir les types de données en JavaScript (https://fr.javascript.info/types)
 - [x] Comprendre _Les conversions de types_ en JavaScript (https://fr.javascript.info/type-conversions)
-- [x] Comprendre les mécanismes des opérateurs mathématiques en JavaScript (https://fr.javascript.info/operators) :
+- [] Comprendre les mécanismes des opérateurs mathématiques en JavaScript (https://fr.javascript.info/operators) :
   - [x] Comprendre le mécanisme de concaténation
   - [x] Découvrir la précédence des opérateurs
   - [x] Savoir distinguer préfix & postfix, ainsi que comprendre leur mécanisme
